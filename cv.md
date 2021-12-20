@@ -32,10 +32,21 @@
 
 ## **Code Examples**
 
+**Even or Odd:** *Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.*
+```
+function even_or_odd(number) {
+  if (number % 2 == 0)
+    return "Even";
+  else
+    return "Odd";
+}
+```
 
 ## **Educational History**
 + Tiraspol State University
   - Bachelor's Degree in Informatics | Sept 2016 - Jul 2019
++ RS Schools 
+  - Course JavaScript/Front-end. #Stage0 | Dec 2021 - ongoing
  
 ## **Languages**
 + *Romanian* - Native proficiency
