@@ -10,12 +10,15 @@
 +  **Discord:** iboico#1596
 
 ## **About Me**
-
+I am a Software Engineer Student at West University of
+Timisoara. I love a challenge, especially when it comes to
+software development.
 
 ## **Programming Skills**
 + HTML and CSS
 + JavaScript
 + PHP
++ Java
 + SQL
 + NoSQL
 
@@ -43,13 +46,14 @@ function even_or_odd(number) {
 ```
 
 ## **Educational History**
-+ Tiraspol State University
-  - Bachelor's Degree in Informatics | Sept 2016 - Jul 2019
 + RS Schools 
   - Course JavaScript/Front-end. #Stage0 | Dec 2021 - ongoing
++ West University of Timisoara
+  - Master's Degree in Software Engineer | Oct 2019 - present
++ Tiraspol State University
+  - Bachelor's Degree in Informatics | Sept 2016 - Jul 2019
  
 ## **Languages**
 + *Romanian* - Native proficiency
 + *Russian* - Professional working proficiency
 + *English* - Limited working proficiency
-
