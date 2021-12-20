@@ -16,8 +16,8 @@ software development.
 ## **Programming Skills**
 + HTML and CSS
 + JavaScript
-+ PHP
 + Java
++ PHP
 + SQL
 + NoSQL
 
