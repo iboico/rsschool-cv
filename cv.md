@@ -6,6 +6,7 @@
 +  **Phone:** +373 69 396511
 +  **E-mail:** ion.boico97@gmail.com
 +  **GitHub:** [iboico](https://github.com/iboico)
++  **Codewars:** [iboico97](https://www.codewars.com/users/iboico97)
 +  **Discord:** iboico#1596
 
 ## **About Me**
