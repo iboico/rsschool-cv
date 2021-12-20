@@ -24,6 +24,11 @@
 + Virtual Machine handling using VirtualBox
 + Database Management using SQL/NoSQL
 
+## **Soft Skills**
++ Problem solving
++ Time management and organization
++ Self-Learning
+
 ## **Code Examples**
 
 
