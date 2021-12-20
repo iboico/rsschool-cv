@@ -12,7 +12,17 @@
 
 
 ## **Programming Skills**
++ HTML and CSS
++ JavaScript
++ PHP
++ SQL
++ NoSQL
 
+## **Other Skills**
++ Branch Management using GitHub
++ Basic knowledge in Operating Systems such as Manjaro, Ubuntu, Fedora, Windows
++ Virtual Machine handling using VirtualBox
++ Database Management using SQL/NoSQL
 
 ## **Code Examples**
 
@@ -21,6 +31,8 @@
 + Tiraspol State University
   - Bachelor's Degree in Informatics | Sept 2016 - Jul 2019
  
-
 ## **Languages**
++ *Romanian* - Native proficiency
++ *Russian* - Professional working proficiency
++ *English* - Limited working proficiency
 
