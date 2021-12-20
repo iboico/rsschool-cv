@@ -1,7 +1,6 @@
 # **Ion Boico**
 
 ## **Contact Me**
-
 +  **Location:** Chisinau, Republic of Moldova
 +  **Phone:** +373 69 396511
 +  **E-mail:** ion.boico97@gmail.com
@@ -49,7 +48,7 @@ function even_or_odd(number) {
 + RS Schools 
   - Course JavaScript/Front-end. #Stage0 | Dec 2021 - ongoing
 + West University of Timisoara
-  - Master's Degree in Software Engineer | Oct 2019 - present
+  - Master's Degree in Software Engineer | Oct 2019 - ongoing
 + Tiraspol State University
   - Bachelor's Degree in Informatics | Sept 2016 - Jul 2019
  
