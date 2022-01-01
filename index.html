@@ -5,9 +5,163 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>CV: Ion Boico</title>
+    <title>Ion Boico - Resume</title>
   </head>
-  <body>
-    <h1>CV: Ion Boico</h1>
+  <body class="wrapper">
+    <header>
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item">
+            <a href="#about-me">About Me</a>
+          </li>
+          <li class="nav-item">
+            <a href="#contact-me">Contact Me</a>
+          </li>
+          <li class="nav-item">
+            <a href="#programming-skills">Programming Skills</a>
+          </li>
+          <li class="nav-item">
+            <a href="#other-skills">Other Skills</a>
+          </li>
+          <li class="nav-item">
+            <a href="#soft-skills">Soft Skills</a>
+          </li>
+          <li class="nav-item">
+            <a href="#code-examples">Code Examples</a>
+          </li>
+          <li class="nav-item">
+            <a href="#edu-history">Educational History</a>
+          </li>
+          <li class="nav-item">
+            <a href="#languages">Languages</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div class="main-container">
+        <section class="about-me container">
+          <div class="about-me-img-container">
+            <img class="about-me-img" src="img/cv_photo.jpg" alt="CV Photo" />
+          </div>
+          <h1>Ion Boico</h1>
+          <h2 id="about-me">About Me</h2>
+          <div class="about-me-description">
+            <p class="description-item">
+              I am a Software Engineer Student at West University of Timisoara.
+            </p>
+            <p class="description-item">
+              I love a challenge, especially when it comes to software
+              development.
+            </p>
+          </div>
+        </section>
+        <section class="contact-me container">
+          <h2 id="contact-me">Contact Me</h2>
+          <ul class="list">
+            <li class="list-item">Location: Chisinau, Republic of Moldova</li>
+            <li class="list-item">Phone: +373 69 396511</li>
+            <li class="list-item">
+              E-mail:
+              <a href="mailto:ion.boico97@gmail.com">ion.boico97@gmail.com</a>
+            </li>
+            <li class="list-item">
+              GitHub: <a href="https://github.com/iboico">iboico</a>
+            </li>
+          </ul>
+        </section>
+        <section class="programming-skills container">
+          <h2 id="programming-skills">Programming Skills</h2>
+          <ul class="list">
+            <li class="list-item">HTML and CSS</li>
+            <li class="list-item">JavaScript</li>
+            <li class="list-item">Java</li>
+            <li class="list-item">PHP</li>
+            <li class="list-item">SQL</li>
+            <li class="list-item">NoSQL</li>
+          </ul>
+        </section>
+        <section class="other-skills container">
+          <h2 id="other-skills">Other Skills</h2>
+          <ul class="list">
+            <li class="list-item">Branch Management using GitHub</li>
+            <li class="list-item">
+              Basic knowledge in Operating Systems such as Manjaro, Ubuntu,
+              Fedora, Windows
+            </li>
+            <li class="list-item">Virtual Machine handling using VirtualBox</li>
+            <li class="list-item">Database Management using SQL/NoSQL</li>
+          </ul>
+        </section>
+        <section class="soft-skills container">
+          <h2 id="soft-skills">Soft Skills</h2>
+          <ul class="list">
+            <li class="list-item">Problem solving</li>
+            <li class="list-item">Time management and organization</li>
+            <li class="list-item">Self-Learning</li>
+          </ul>
+        </section>
+        <section class="code-examples container">
+          <h2 id="code-examples">Code Examples</h2>
+          <pre>
+            <code>
+              function even_or_odd(number) {
+                if (number % 2 == 0)
+                  return "Even";
+                else
+                  return "Odd";
+              }
+            </code>
+          </pre>
+        </section>
+        <section class="edu-history container">
+          <h2 id="edu-history">Educational History</h2>
+          <ul class="list">
+            <li class="list-item">
+              RS Schools: Course JavaScript/Front-end. #Stage0 (Dec 2021 -
+              ongoing)
+            </li>
+            <li class="list-item">
+              West University of Timisoara: Master's Degree in Software Engineer
+              (Oct 2019 - ongoing)
+            </li>
+            <li class="list-item">
+              Tiraspol State University: Bachelor's Degree in Informatics (Sept
+              2016 - Jul 2019)
+            </li>
+          </ul>
+        </section>
+        <section class="languages container">
+          <h2 id="languages">Languages</h2>
+          <ul class="list">
+            <li class="list-item">Romanian - Native proficiency</li>
+            <li class="list-item">
+              Russian - Professional working proficiency
+            </li>
+            <li class="list-item">English - Limited working proficiency</li>
+          </ul>
+        </section>
+      </div>
+    </main>
+    <footer class="footer">
+      <div class="footer-page">
+        <div class="footer-page-copyright">© 2022 by Ion Boico</div>
+        <ul class="footer-page-links">
+          <li class="footer-page-links-item">
+            <a href="https://github.com/iboico" target="_blank">GitHub</a>
+          </li>
+          <li class="footer-page-links-item">
+            <a href="https://rs.school/js/" target="_blank">
+              <img
+                src="img/rs_school_js.svg"
+                alt="RS School"
+                width="80"
+                height="60"
+              />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </footer>
   </body>
 </html>
